@@ -6,6 +6,8 @@ Author: Sydney Holland
 
 Last Updated: October 27, 2025
 
+Data Source: New York City Airbnb Open Data by Dgomonov (Kaggle)
+
 Tools Used: 
 - Microsoft Excel (Data Cleaning)
 - Tableau (Analysis, Visualizations)
